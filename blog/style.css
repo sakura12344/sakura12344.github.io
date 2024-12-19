@@ -1,4 +1,7 @@
 body {
+  background-color: #f0f0f0;
   background-image: url("https://i.pximg.net/img-master/img/2023/11/02/00/00/29/113058420_p0_master1200.jpg");
   background-size: cover;
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
 }
